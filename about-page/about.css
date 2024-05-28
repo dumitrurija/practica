@@ -1,0 +1,109 @@
+main {
+    padding: 10px;
+}
+
+.main-title {
+    text-align: center;
+    margin: 50px 0;
+    font-size: 36px;
+}
+
+/* === About === */
+
+.about {
+    max-width: 1440px;
+    margin: auto;
+
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+
+    padding-bottom: 100px;
+}
+
+.about .title {
+    display: flex;
+    gap: 10px;
+}
+
+.about .title h1 {
+    font-size: 32px;
+}
+
+.about .description {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.about .description h2 {
+    color: var(--header-s);
+}
+
+.about .description p {
+    color: var(--header-ns)
+}
+
+/* === Brands === */
+.brands {
+    max-width: 1440px;
+    margin: auto;
+    border-radius: 25px;
+    background-color: var(--footer-bg);
+    color: white;
+    padding: 50px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.brands .title {
+
+}
+
+.brands .title h1 {
+    font-size: 48px;
+}
+
+.brands .title small {
+    font-size: 20px;
+}
+
+.brands .title span {
+    color: #FBD103;
+}
+
+img {
+    border-radius: 15px;
+}
+
+
+/* === RESPONSIVE === */
+@media screen and (max-width: 570px) {
+    .main-title {
+        margin: 10px 0;
+    }
+
+    .about * {
+        text-align: center;
+    }
+
+    .about .title {
+        margin-top: 50px;
+        display: flex;
+        align-items: center;
+    }
+
+    .title h1 {
+        text-align: left;
+        font-size: 20px !important; 
+    }
+
+    .brands {
+        padding: 25px;
+        gap: 5px;
+    }
+}

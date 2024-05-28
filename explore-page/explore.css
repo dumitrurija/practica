@@ -1,0 +1,128 @@
+main {
+    padding: 10px;
+}
+
+.main-title {
+    text-align: center;
+    margin: 50px 0;
+    font-size: 36px;
+}
+
+/* === Explore === */
+.explore {
+    max-width: 1440px;
+    margin: auto;
+
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+
+    padding-bottom: 100px;
+}
+
+.explore .title {
+    display: flex;
+    gap: 10px;
+}
+
+.explore .title h1 {
+    font-size: 32px;
+}
+
+/* Grid */
+.grid-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.grid-container-1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
+}
+
+.grid-container-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+.grid-container-1 a,
+.grid-container-2 a {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    width: 100%;
+    height: 393px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transition: 0.15s ease-in-out;
+    cursor: pointer;
+}
+
+.grid-container-1 a:hover,
+.grid-container-2 a:hover {
+    transform: scale(1.015);
+    box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.2);
+}
+
+.grid-container-1 a:nth-child(1) {
+    background-image: url("../imgs/explore-imgs/men-shirts.png");
+}
+
+.grid-container-1 a:nth-child(2) {
+    background-image: url("../imgs/explore-imgs/printed-shirt.png");
+}
+
+.grid-container-1 a:nth-child(3) {
+    background-image: url("../imgs/explore-imgs/sport-outfits.png");
+}
+
+
+.grid-container-2 a:nth-child(1) {
+    background-image: url("../imgs/explore-imgs/urban-shirts.png");
+}
+
+.grid-container-2 a:nth-child(2) {
+    background-image: url("../imgs/explore-imgs/oversized-shirts.png");
+}
+
+/* === RESPONSIVE === */
+@media screen and (max-width: 1050px) {
+    .grid-container {
+
+    }
+
+    .grid-container-1 {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .grid-container-1 a:nth-child(3) {
+        grid-column: span 2;
+    }
+}
+
+@media screen and (max-width: 675px) {
+    .grid-container-1,
+    .grid-container-2 {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    .main-title {
+        margin: 10px 0;
+    }
+
+    .explore * {
+        text-align: center;
+    }
+
+    .explore .title {
+        display: none;
+    }
+}

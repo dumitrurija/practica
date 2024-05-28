@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Arctic Frost Parka",
+        "brand": "Jhanvi",
+        "price": 123,
+        "img": "../imgs/shop-imgs/1.jpg",
+        "description": "Stay warm and stylish this winter with our Arctic Frost Parka from Jhanvi. Crafted with premium materials and designed for both comfort and elegance, this jacket is a must-have addition to your cold-weather wardrobe. Whether you're heading to work or enjoying a weekend getaway, this versatile jacket ensures you stay cozy and chic all season long.",
+        "video": "https://www.youtube.com/embed/MtKHkjCFJHY"
+    },
+    {
+        "name": "Ivory Elegance Polo",
+        "brand": "Helen",
+        "price": 11,
+        "img": "../imgs/shop-imgs/2.jpg",
+        "description": "Add a touch of sophistication to your casual wardrobe with our Ivory Elegance Polo by Helen. Made from soft, breathable fabric, this timeless shirt offers unbeatable comfort and style. Whether you're hitting the golf course or meeting friends for lunch, this versatile polo ensures you stay effortlessly chic all day long.",
+        "video": "https://www.youtube.com/embed/YPHAmyr4Srg"
+    },
+    {
+        "name": "Misty Lavender Pullover",
+        "brand": "Helen",
+        "price": 119,
+        "img": "../imgs/shop-imgs/3.jpg",
+        "description": "Wrap yourself in luxurious comfort with our Misty Lavender Pullover from Helen. Featuring a trendy lavender hue and a relaxed fit, this hoodie is perfect for lounging at home or running errands in style. Add a pop of color to your wardrobe and elevate your casual look with this must-have piece.",
+        "video": "https://www.youtube.com/embed/bg9iwoQyza8"
+    },
+    {
+        "name": "Forest Whisper Shirt",
+        "brand": "Priya",
+        "price": 77,
+        "img": "../imgs/shop-imgs/4.jpg",
+        "description": "Bring the beauty of nature into your wardrobe with our Forest Whisper Shirt by Priya. Featuring a unique leaf print and a comfortable fit, this shirt is sure to make a statement wherever you go. Pair it with jeans for a casual daytime look or dress it up with chinos for a smart-casual office ensemble.",
+        "video": "https://www.youtube.com/embed/8lnGb6IirwQ"
+    },
+    {
+        "name": "Pearl Essence Blouse",
+        "brand": "MM",
+        "price": 29,
+        "img": "../imgs/shop-imgs/5.jpg",
+        "description": "Elevate your everyday style with our Pearl Essence Blouse from MM. Crafted with a flattering silhouette and versatile white hue, this blouse effortlessly transitions from day to night. Whether you're heading to the office or out for dinner, this chic blouse ensures you look and feel fabulous wherever you go.",
+        "video": "https://www.youtube.com/embed/V_Ju832wWI8"
+    },
+    {
+        "name": "Midnight City Shorts",
+        "brand": "Woden",
+        "price": 37,
+        "img": "../imgs/shop-imgs/6.jpg",
+        "description": "Stay cool and stylish this summer with our Midnight City Shorts from Woden. Crafted with lightweight fabric and featuring a classic black hue, these shorts are perfect for any casual occasion. Whether you're hitting the beach or exploring the city streets, these versatile shorts ensure you stay comfortable and on-trend all season long.",
+        "video": "https://www.youtube.com/embed/vtPAOw2v0MA"
+    },
+    {
+        "name": "Snowfall Elegance Jacket",
+        "brand": "Jhanvi",
+        "price": 123,
+        "img": "../imgs/shop-imgs/3.jpg",
+        "description": "Stay warm and stylish this winter with our Snowfall Elegance Jacket from Jhanvi. Crafted with premium materials and designed for both comfort and elegance, this jacket is a must-have addition to your cold-weather wardrobe. Whether you're heading to work or enjoying a weekend getaway, this versatile jacket ensures you stay cozy and chic all season long.",
+        "video": "https://www.youtube.com/embed/MtKHkjCFJHY"
+    },
+    {
+        "name": "Classic White Polo Shirt",
+        "brand": "Helen",
+        "price": 11,
+        "img": "../imgs/shop-imgs/4.jpg",
+        "description": "Add a touch of sophistication to your casual wardrobe with our Classic White Polo Shirt by Helen. Made from soft, breathable fabric, this timeless shirt offers unbeatable comfort and style. Whether you're hitting the golf course or meeting friends for lunch, this versatile polo ensures you stay effortlessly chic all day long.",
+        "video": "https://www.youtube.com/embed/YPHAmyr4Srg"
+    },
+    {
+        "name": "Lavender Dream Hoodie",
+        "brand": "Helen",
+        "price": 119,
+        "img": "../imgs/shop-imgs/3.jpg",
+        "description": "Wrap yourself in luxurious comfort with our Lavender Dream Hoodie from Helen. Featuring a trendy lavender hue and a relaxed fit, this hoodie is perfect for lounging at home or running errands in style. Add a pop of color to your wardrobe and elevate your casual look with this must-have piece.",
+        "video": "https://www.youtube.com/embed/bg9iwoQyza8"
+    },
+    {
+        "name": "Nature-Inspired Leaf Shirt",
+        "brand": "Priya",
+        "price": 77,
+        "img": "../imgs/shop-imgs/2.jpg",
+        "description": "Bring the beauty of nature into your wardrobe with our Nature-Inspired Leaf Shirt by Priya. Featuring a unique leaf print and a comfortable fit, this shirt is sure to make a statement wherever you go. Pair it with jeans for a casual daytime look or dress it up with chinos for a smart-casual office ensemble.",
+        "video": "https://www.youtube.com/embed/8lnGb6IirwQ"
+    },
+    {
+        "name": "Royal Plum Pullover",
+        "brand": "MM",
+        "price": 29,
+        "img": "../imgs/shop-imgs/5.jpg",
+        "description": "Elevate your everyday style with our Royal Plum Pullover from MM. Crafted with a flattering silhouette and versatile white hue, this blouse effortlessly transitions from day to night. Whether you're heading to the office or out for dinner, this chic blouse ensures you look and feel fabulous wherever you go.",
+        "video": "https://www.youtube.com/embed/V_Ju832wWI8"
+    },
+    {
+        "name": "Coral Sunset Polo",
+        "brand": "Woden",
+        "price": 37,
+        "img": "../imgs/shop-imgs/2.jpg",
+        "description": "Stay cool and stylish this summer with our Coral Sunset Polo from Woden. Crafted with lightweight fabric and featuring a classic black hue, these shorts are perfect for any casual occasion. Whether you're hitting the beach or exploring the city streets, these versatile shorts ensure you stay comfortable and on-trend all season long.",
+        "video": "https://www.youtube.com/embed/vtPAOw2v0MA"
+    },
+    {
+        "name": "Silver Frost Parka",
+        "brand": "Jhanvi",
+        "price": 123,
+        "img": "../imgs/shop-imgs/6.jpg",
+        "description": "Stay warm and stylish this winter with our Silver Frost Parka from Jhanvi. Crafted with premium materials and designed for both comfort and elegance, this jacket is a must-have addition to your cold-weather wardrobe. Whether you're heading to work or enjoying a weekend getaway, this versatile jacket ensures you stay cozy and chic all season long.",
+        "video": "https://www.youtube.com/embed/MtKHkjCFJHY"
+    },
+    {
+        "name": "Ivory Whisper Polo",
+        "brand": "Helen",
+        "price": 11,
+        "img": "../imgs/shop-imgs/1.jpg",
+        "description": "Add a touch of sophistication to your casual wardrobe with our Ivory Whisper Polo by Helen. Made from soft, breathable fabric, this timeless shirt offers unbeatable comfort and style. Whether you're hitting the golf course or meeting friends for lunch, this versatile polo ensures you stay effortlessly chic all day long.",
+        "video": "https://www.youtube.com/embed/YPHAmyr4Srg"
+    },
+    {
+        "name": "Frosty Pine Jacket",
+        "brand": "Helen",
+        "price": 119,
+        "img": "../imgs/shop-imgs/5.jpg",
+        "description": "Wrap yourself in luxurious comfort with our Frosty Pine Jacket from Helen. Featuring a trendy lavender hue and a relaxed fit, this hoodie is perfect for lounging at home or running errands in style. Add a pop of color to your wardrobe and elevate your casual look with this must-have piece.",
+        "video": "https://www.youtube.com/embed/bg9iwoQyza8"
+    },
+    {
+        "name": "Nightfall Urban Shorts",
+        "brand": "Priya",
+        "price": 77,
+        "img": "../imgs/shop-imgs/2.jpg",
+        "description": "Bring the beauty of nature into your wardrobe with our Nightfall Urban Shorts by Priya. Featuring a unique leaf print and a comfortable fit, this shirt is sure to make a statement wherever you go. Pair it with jeans for a casual daytime look or dress it up with chinos for a smart-casual office ensemble.",
+        "video": "https://www.youtube.com/embed/8lnGb6IirwQ"
+    },
+    {
+        "name": "Ocean Mist Blouse",
+        "brand": "MM",
+        "price": 29,
+        "img": "../imgs/shop-imgs/3.jpg",
+        "description": "Elevate your everyday style with our Ocean Mist Blouse from MM. Crafted with a flattering silhouette and versatile white hue, this blouse effortlessly transitions from day to night. Whether you're heading to the office or out for dinner, this chic blouse ensures you look and feel fabulous wherever you go.",
+        "video": "https://www.youtube.com/embed/V_Ju832wWI8"
+    },
+    {
+        "name": "Meadow Breeze Shirt",
+        "brand": "Woden",
+        "price": 37,
+        "img": "../imgs/shop-imgs/1.jpg",
+        "description": "Stay cool and stylish this summer with our Meadow Breeze Shirt from Woden. Crafted with lightweight fabric and featuring a classic black hue, these shorts are perfect for any casual occasion. Whether you're hitting the beach or exploring the city streets, these versatile shorts ensure you stay comfortable and on-trend all season long.",
+        "video": "https://www.youtube.com/embed/vtPAOw2v0MA"
+    },
+    {
+        "name": "Lilac Serenity Hoodie",
+        "brand": "Jhanvi",
+        "price": 123,
+        "img": "../imgs/shop-imgs/4.jpg",
+        "description": "Stay warm and stylish this winter with our Lilac Serenity Hoodie from Jhanvi. Crafted with premium materials and designed for both comfort and elegance, this jacket is a must-have addition to your cold-weather wardrobe. Whether you're heading to work or enjoying a weekend getaway, this versatile jacket ensures you stay cozy and chic all season long.",
+        "video": "https://www.youtube.com/embed/MtKHkjCFJHY"
+    },
+    {
+        "name": "Cloud Whisper Polo",
+        "brand": "Helen",
+        "price": 11,
+        "img": "../imgs/shop-imgs/2.jpg",
+        "description": "Add a touch of sophistication to your casual wardrobe with our Cloud Whisper Polo by Helen. Made from soft, breathable fabric, this timeless shirt offers unbeatable comfort and style. Whether you're hitting the golf course or meeting friends for lunch, this versatile polo ensures you stay effortlessly chic all day long.",
+        "video": "https://www.youtube.com/embed/YPHAmyr4Srg"
+    }
+]

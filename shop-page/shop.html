@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LightStore | Explore</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="shop.css">
+    <link rel="icon" type="image/x-icon" href="../imgs/logo.png">
+</head>
+<body>
+    <header>
+        <div class="header-logo">
+            <a href="../home-page/home.html"><h1>LightStore</h1></a>
+        </div>
+
+        <div class="header-nav">
+            <nav>
+                <ul>
+                    <a href="../home-page/home.html"><li>Home</li></a>
+                    <a href="../shop-page/shop.html"><li style="color: #3C4242">Shop</li></a>
+                    <a href="../about-page/about.html"><li>About Us</li></a>
+                    <a href="../explore-page/explore.html"><li>Explore</li></a>
+                </ul>
+            </nav>
+        </div>
+
+        <div class="header-utilities">
+            <a href="../cart-page/cart.html">
+                <div class="cart">
+                    <i class="fa-solid fa-cart-shopping"></i>
+                    <div></div>
+                </div>
+            </a>
+        </div>
+    </header>
+
+    <main>
+        <h1 class="main-title">Shop</h1>
+
+        <section class="shop-container">
+            <div class="shop-filter">
+                <div class="filter-title">
+                    <h2>Filter</h2>
+                    <i class="fa-solid fa-filter"></i>
+                </div>
+
+                <div class="filter-price">
+                    <div class="dropdown">
+                        <h2>Price</h2>
+                        <i class="fa-solid fa-caret-down"></i>
+                    </div>
+                    
+                    <input type="range" id="priceRange">
+                </div>
+
+                <div class="filter-brand">
+                    <div class="dropdown">
+                        <h2>Brand</h2>
+                        <i class="fa-solid fa-caret-down"></i>
+                    </div>
+
+                    <div class="brand-names">
+                        <div class="brand-name">
+                            <h4>Helen</h4>
+                            <input type="checkbox" name="" id="">
+                        </div>
+                        <div class="brand-name">
+                            <h4>Jhanvi</h4>
+                            <input type="checkbox" name="" id="">
+                        </div>
+                        <div class="brand-name">
+                            <h4>Woden</h4>
+                            <input type="checkbox" name="" id="">
+                        </div>
+                        <div class="brand-name">
+                            <h4>Priya</h4>
+                            <input type="checkbox" name="" id="">
+                        </div>
+                        <div class="brand-name">
+                            <h4>MM</h4>
+                            <input type="checkbox" name="" id="">
+                        </div>
+                        <div class="brand-name">
+                            <h4>Nisargi</h4>
+                            <input type="checkbox" name="" id="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="shop-products">
+                <!-- <div class="shop-product">
+                    <img src="../imgs/shop-imgs/1.jpg" alt="">
+                    <div class="product-desc">
+                        <div class="product-title">
+                            <h3>Black Sweatshirt</h3>
+                            <h4>Jhanvi</h4>
+                        </div>
+                        <span>$123.00</span>
+                    </div>
+                </div>
+
+                <div class="shop-product">
+                    <img src="../imgs/shop-imgs/2.jpg" alt="">w
+                    <div class="product-desc">
+                        <div class="product-title">
+                            <h3>Black Sweatshirt</h3>
+                            <h4>Jhanvi</h4>
+                        </div>
+                        <span>$123.00</span>
+                    </div>
+                </div>
+
+                <div class="shop-product">
+                    <img src="../imgs/shop-imgs/3.jpg" alt="">
+                    <div class="product-desc">
+                        <div class="product-title">
+                            <h3>Black Sweatshirt</h3>
+                            <h4>Jhanvi</h4>
+                        </div>
+                        <span>$123.00</span>
+                    </div>
+                </div>
+
+                <div class="shop-product">
+                    <img src="../imgs/shop-imgs/4.jpg" alt="">
+                    <div class="product-desc">
+                        <div class="product-title">
+                            <h3>Black Sweatshirt</h3>
+                            <h4>Jhanvi</h4>
+                        </div>
+                        <span>$123.00</span>
+                    </div>
+                </div>
+
+                <div class="shop-product">
+                    <img src="../imgs/shop-imgs/5.jpg" alt="">
+                    <div class="product-desc">
+                        <div class="product-title">
+                            <h3>Black Sweatshirt</h3>
+                            <h4>Jhanvi</h4>
+                        </div>
+                        <span>$123.00</span>
+                    </div>
+                </div>
+
+                <div class="shop-product">
+                    <img src="../imgs/shop-imgs/6.jpg" alt="">
+                    <div class="product-desc">
+                        <div class="product-title">
+                            <h3>Black Sweatshirt</h3>
+                            <h4>Jhanvi</h4>
+                        </div>
+                        <span>$123.00</span>
+                    </div>
+                </div> -->
+            </div>
+        </section>
+        
+        <div class="pagination"></div>
+    </main>
+
+    <footer>
+        <div class="footer-wrapper">
+            <div class="footer-logo">
+                <h1>LightStore</h1>
+            </div>
+            <div class="footer-copyright">
+                <h3>&copy; 2024. All rights reserved.</h3>
+            </div>
+        </div>
+    </footer>
+
+    <script src="shop.js"></script>
+    <script src="../index.js"></script>
+</body>
+</html>
